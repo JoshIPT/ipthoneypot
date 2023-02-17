@@ -1,0 +1,1 @@
+[{"port":80,"serviceName":"HTTP"},{"port":4433,"serviceName":"HTTPS"},{"port":21,"serviceName":"FTP"},{"port":22,"serviceName":"SSH"},{"port":23,"serviceName":"Telnet"},{"port":8080,"serviceName":"HTTP-Alt"},{"port":25,"serviceName":"SMTP"},{"port":110,"serviceName":"POP3"},{"port":143,"serviceName":"IMAP"},{"port":3389,"serviceName":"RDP"}]

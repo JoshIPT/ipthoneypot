@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/o+tXTdS1PFpa9w6YIqYUQwiseXE1quQM9OKBgo7gLSIEGy+PkbLZBid0XMTyIqijTkST3othWGQiLxD98Nqyw==",
+  "success": true,
+  "projectFilePath": "/root/honeypot/honeypot/honeypot.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/root/.nuget/packages/supersimpletcp/3.0.0/supersimpletcp.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = honeypot
+build_property.ProjectDir = /root/honeypot/honeypot/
